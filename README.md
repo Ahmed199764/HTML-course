@@ -24,7 +24,7 @@ Design tips to help you create more attractive and professional sites
 Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to understand who your target audience is.
 
 target auDience: inDiviDuals | target auDience: comPanies
----------------------------------------------------------
+-----------------------------|----------------------------
 What is the age range of your target audience | What is the size of the company or relevant department
 Which country do your visitors live in | What is the position of people in the company who visit your site
 What is their occupation | Will visitors be using the site for themselves or for someone else
