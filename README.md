@@ -20,7 +20,7 @@ How to organize information so that visitors can find what they are looking for
 Design theory for presenting information in a way that helps visitors achieve their goals
 Design tips to help you create more attractive and professional sites
  
- ## Who is the site For?
+## Who is the site For?
 Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to understand who your target audience is.
 
 target auDience: inDiviDuals | target auDience: comPanies
